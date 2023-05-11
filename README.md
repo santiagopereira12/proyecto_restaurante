@@ -4,10 +4,15 @@
 
 ## Procedimientos.
 
-1. Historia casos de Uso.
-2. Diagrama de Casos de Uso.
-3. Diagrama de flujo.
-4. Seudocodigo.
+<pre><code>
+[x] Crear Repositorio
+[X] Actualizar README.MD
+[X] Crear Historia de usuario
+[X] Crear Diagrama de casos de Uso
+[X] Crear Diagrama de flujo
+[X] Digitar seudocodigo
+[X] Subir proyecto a github
+</code></pre>
 
 ---
 
