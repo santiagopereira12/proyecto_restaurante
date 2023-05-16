@@ -23,7 +23,7 @@
 - Se realizara el diagrama de casos de uso que nos mostrara los movimientos a ejecutar por parte de los Usuarios que ocuparan el app.
 - Una vez identificadas las acciones y los diferentes actores involucrados, se llevara acabo el diagrama de flujo que explicara a detalle el procedimiento adecuado para poder tener un correcto uso de la aplicación.
 - Finalizaremos con un seudoicodigo donde digitaremos con algoritmos las funciones del aplicativo.
-![]()
+![](https://github.com/santiagopereira12/proyecto_restaurante/blob/Documentation/Historia%20de%20Usuario/scrum.PNG)
 
 ---
 
